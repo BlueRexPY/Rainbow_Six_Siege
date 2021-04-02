@@ -5,6 +5,7 @@
   margin: 0;
   box-sizing: border-box;
 }
+html { overflow:  hidden; }
 body{
   background: #212121;
   display: flex;
@@ -23,7 +24,7 @@ body{
   position: relative;
   width: 600px;
   height: 350px;
-  margin: 60px;
+  margin: 50px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
