@@ -1,5 +1,5 @@
 VanillaTilt.init(document.querySelectorAll(".card"),{
-    max: 7,
+    max: 25,
     speed: 400
 });
 // если что это библиотека > VanillaTilt
